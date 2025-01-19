@@ -8,6 +8,7 @@ This repo contains all the materials, resources, and code samples used during th
 - Session Slides: Presentation slides used during the bootcamp.
 - Code Examples: Hands-on code snippets and projects.
 - Resources: Links to useful articles, tools, and documentation.
+- Projects: The workshop project which will be implemented during the bootcamp duration
 - Tasks: Practice problems and challenges to reinforce your learning.
 
 ## How to Use
